@@ -1,0 +1,638 @@
+[
+  {
+    "name": "about-us___en",
+    "path": "/about-us",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\about-us\\\\index.vue",
+    "chunkName": "pages/about-us/index",
+    "_name": "_811459d6"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_670a4973"
+  },
+  {
+    "name": "contact-us___en",
+    "path": "/contact-us",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_f38defb0"
+  },
+  {
+    "path": "/dashboard",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "children": [
+      {
+        "name": "dashboard___en",
+        "path": "",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\index.vue",
+        "chunkName": "pages/dashboard/index",
+        "_name": "_7a87c12d"
+      },
+      {
+        "name": "dashboard-conditions___en",
+        "path": "conditions",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\conditions.vue",
+        "chunkName": "pages/dashboard/conditions",
+        "_name": "_64ac1f26"
+      },
+      {
+        "name": "dashboard-favorite-properties___en",
+        "path": "favorite-properties",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\favorite-properties.vue",
+        "chunkName": "pages/dashboard/favorite-properties",
+        "_name": "_240717c2"
+      },
+      {
+        "name": "dashboard-messaging___en",
+        "path": "messaging",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\messaging.vue",
+        "chunkName": "pages/dashboard/messaging",
+        "_name": "_1efe4cdf"
+      },
+      {
+        "name": "dashboard-my-properties___en",
+        "path": "my-properties",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\my-properties.vue",
+        "chunkName": "pages/dashboard/my-properties",
+        "_name": "_c14ea762"
+      },
+      {
+        "name": "dashboard-offers___en",
+        "path": "offers",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\offers\\\\index.vue",
+        "chunkName": "pages/dashboard/offers/index",
+        "_name": "_0897ecb6"
+      },
+      {
+        "name": "dashboard-owner___en",
+        "path": "owner",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\owner.vue",
+        "chunkName": "pages/dashboard/owner",
+        "_name": "_a8929ae4"
+      },
+      {
+        "name": "dashboard-requests___en",
+        "path": "requests",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\index.vue",
+        "chunkName": "pages/dashboard/requests/index",
+        "_name": "_00d5a8ae"
+      },
+      {
+        "name": "dashboard-offers-offerId___en",
+        "path": "offers/:offerId",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\offers\\\\_offerId.vue",
+        "chunkName": "pages/dashboard/offers/_offerId",
+        "_name": "_53e127b8"
+      },
+      {
+        "name": "dashboard-requests-requestId___en",
+        "path": "requests/:requestId",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\_requestId\\\\index.vue",
+        "chunkName": "pages/dashboard/requests/_requestId/index",
+        "_name": "_ffd4b384"
+      },
+      {
+        "name": "dashboard-properties-propertyId-edit___en",
+        "path": "properties/:propertyId?/edit",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\properties\\\\_propertyId\\\\edit.vue",
+        "chunkName": "pages/dashboard/properties/_propertyId/edit",
+        "_name": "_5acdb0fe"
+      },
+      {
+        "name": "dashboard-requests-requestId-offers___en",
+        "path": "requests/:requestId/offers",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\_requestId\\\\offers\\\\index.vue",
+        "chunkName": "pages/dashboard/requests/_requestId/offers/index",
+        "_name": "_40fc30c7"
+      },
+      {
+        "name": "dashboard-requests-requestId-offers-offerId___en",
+        "path": "requests/:requestId/offers/:offerId",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\_requestId\\\\offers\\\\_offerId.vue",
+        "chunkName": "pages/dashboard/requests/_requestId/offers/_offerId",
+        "_name": "_321c6273"
+      }
+    ],
+    "_name": "_a5daa496"
+  },
+  {
+    "name": "delete-my-account___en",
+    "path": "/delete-my-account",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\delete-my-account\\\\index.vue",
+    "chunkName": "pages/delete-my-account/index",
+    "_name": "_5e7767da"
+  },
+  {
+    "name": "marketplace___en",
+    "path": "/marketplace",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\marketplace\\\\index.vue",
+    "chunkName": "pages/marketplace/index",
+    "_name": "_61a9ff56"
+  },
+  {
+    "name": "privacy-policy___en",
+    "path": "/privacy-policy",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_6fac947c"
+  },
+  {
+    "name": "profile___en",
+    "path": "/profile",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_17e48690"
+  },
+  {
+    "name": "properties___en",
+    "path": "/properties",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\index.vue",
+    "chunkName": "pages/properties/index",
+    "_name": "_1e442d60"
+  },
+  {
+    "name": "search___en",
+    "path": "/search",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index",
+    "_name": "_0289164b"
+  },
+  {
+    "name": "search-details___en",
+    "path": "/search-details",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\search-details\\\\index.vue",
+    "chunkName": "pages/search-details/index",
+    "_name": "_4d987694"
+  },
+  {
+    "name": "terms-and-conditions___en",
+    "path": "/terms-and-conditions",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\terms-and-conditions\\\\index.vue",
+    "chunkName": "pages/terms-and-conditions/index",
+    "_name": "_5e29ef3f"
+  },
+  {
+    "name": "about-us___ar",
+    "path": "/ar/about-us",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\about-us\\\\index.vue",
+    "chunkName": "pages/about-us/index",
+    "_name": "_811459d6"
+  },
+  {
+    "name": "contact-us___ar",
+    "path": "/ar/contact-us",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_f38defb0"
+  },
+  {
+    "path": "/ar/dashboard",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "children": [
+      {
+        "name": "dashboard___ar",
+        "path": "",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\index.vue",
+        "chunkName": "pages/dashboard/index",
+        "_name": "_7a87c12d"
+      },
+      {
+        "name": "dashboard-conditions___ar",
+        "path": "conditions",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\conditions.vue",
+        "chunkName": "pages/dashboard/conditions",
+        "_name": "_64ac1f26"
+      },
+      {
+        "name": "dashboard-favorite-properties___ar",
+        "path": "favorite-properties",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\favorite-properties.vue",
+        "chunkName": "pages/dashboard/favorite-properties",
+        "_name": "_240717c2"
+      },
+      {
+        "name": "dashboard-messaging___ar",
+        "path": "messaging",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\messaging.vue",
+        "chunkName": "pages/dashboard/messaging",
+        "_name": "_1efe4cdf"
+      },
+      {
+        "name": "dashboard-my-properties___ar",
+        "path": "my-properties",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\my-properties.vue",
+        "chunkName": "pages/dashboard/my-properties",
+        "_name": "_c14ea762"
+      },
+      {
+        "name": "dashboard-offers___ar",
+        "path": "offers",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\offers\\\\index.vue",
+        "chunkName": "pages/dashboard/offers/index",
+        "_name": "_0897ecb6"
+      },
+      {
+        "name": "dashboard-owner___ar",
+        "path": "owner",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\owner.vue",
+        "chunkName": "pages/dashboard/owner",
+        "_name": "_a8929ae4"
+      },
+      {
+        "name": "dashboard-requests___ar",
+        "path": "requests",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\index.vue",
+        "chunkName": "pages/dashboard/requests/index",
+        "_name": "_00d5a8ae"
+      },
+      {
+        "name": "dashboard-offers-offerId___ar",
+        "path": "offers/:offerId",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\offers\\\\_offerId.vue",
+        "chunkName": "pages/dashboard/offers/_offerId",
+        "_name": "_53e127b8"
+      },
+      {
+        "name": "dashboard-requests-requestId___ar",
+        "path": "requests/:requestId",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\_requestId\\\\index.vue",
+        "chunkName": "pages/dashboard/requests/_requestId/index",
+        "_name": "_ffd4b384"
+      },
+      {
+        "name": "dashboard-properties-propertyId-edit___ar",
+        "path": "properties/:propertyId?/edit",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\properties\\\\_propertyId\\\\edit.vue",
+        "chunkName": "pages/dashboard/properties/_propertyId/edit",
+        "_name": "_5acdb0fe"
+      },
+      {
+        "name": "dashboard-requests-requestId-offers___ar",
+        "path": "requests/:requestId/offers",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\_requestId\\\\offers\\\\index.vue",
+        "chunkName": "pages/dashboard/requests/_requestId/offers/index",
+        "_name": "_40fc30c7"
+      },
+      {
+        "name": "dashboard-requests-requestId-offers-offerId___ar",
+        "path": "requests/:requestId/offers/:offerId",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\dashboard\\\\requests\\\\_requestId\\\\offers\\\\_offerId.vue",
+        "chunkName": "pages/dashboard/requests/_requestId/offers/_offerId",
+        "_name": "_321c6273"
+      }
+    ],
+    "_name": "_a5daa496"
+  },
+  {
+    "name": "delete-my-account___ar",
+    "path": "/ar/delete-my-account",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\delete-my-account\\\\index.vue",
+    "chunkName": "pages/delete-my-account/index",
+    "_name": "_5e7767da"
+  },
+  {
+    "name": "marketplace___ar",
+    "path": "/ar/marketplace",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\marketplace\\\\index.vue",
+    "chunkName": "pages/marketplace/index",
+    "_name": "_61a9ff56"
+  },
+  {
+    "name": "privacy-policy___ar",
+    "path": "/ar/privacy-policy",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\privacy-policy\\\\index.vue",
+    "chunkName": "pages/privacy-policy/index",
+    "_name": "_6fac947c"
+  },
+  {
+    "name": "profile___ar",
+    "path": "/ar/profile",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_17e48690"
+  },
+  {
+    "name": "properties___ar",
+    "path": "/ar/properties",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\index.vue",
+    "chunkName": "pages/properties/index",
+    "_name": "_1e442d60"
+  },
+  {
+    "name": "search___ar",
+    "path": "/ar/search",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index",
+    "_name": "_0289164b"
+  },
+  {
+    "name": "search-details___ar",
+    "path": "/ar/search-details",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\search-details\\\\index.vue",
+    "chunkName": "pages/search-details/index",
+    "_name": "_4d987694"
+  },
+  {
+    "name": "terms-and-conditions___ar",
+    "path": "/ar/terms-and-conditions",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\terms-and-conditions\\\\index.vue",
+    "chunkName": "pages/terms-and-conditions/index",
+    "_name": "_5e29ef3f"
+  },
+  {
+    "name": "auth-reset-password___en",
+    "path": "/auth/reset-password",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\auth\\\\reset-password.vue",
+    "chunkName": "pages/auth/reset-password",
+    "_name": "_8e6d1b20"
+  },
+  {
+    "name": "properties-add___en",
+    "path": "/properties/add",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add.vue",
+    "chunkName": "pages/properties/add",
+    "children": [
+      {
+        "name": "properties-add-1___en",
+        "path": "1",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\1.vue",
+        "chunkName": "pages/properties/add/1",
+        "_name": "_31736ad2"
+      },
+      {
+        "name": "properties-add-2___en",
+        "path": "2",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\2.vue",
+        "chunkName": "pages/properties/add/2",
+        "_name": "_31818253"
+      },
+      {
+        "name": "properties-add-3___en",
+        "path": "3",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\3.vue",
+        "chunkName": "pages/properties/add/3",
+        "_name": "_318f99d4"
+      },
+      {
+        "name": "properties-add-4___en",
+        "path": "4",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\4.vue",
+        "chunkName": "pages/properties/add/4",
+        "_name": "_319db155"
+      },
+      {
+        "name": "properties-add-5___en",
+        "path": "5",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\5.vue",
+        "chunkName": "pages/properties/add/5",
+        "_name": "_31abc8d6"
+      },
+      {
+        "name": "properties-add-6___en",
+        "path": "6",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\6.vue",
+        "chunkName": "pages/properties/add/6",
+        "_name": "_31b9e057"
+      },
+      {
+        "name": "properties-add-7___en",
+        "path": "7",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\7.vue",
+        "chunkName": "pages/properties/add/7",
+        "_name": "_31c7f7d8"
+      }
+    ],
+    "_name": "_71fb79a2"
+  },
+  {
+    "name": "properties-posting___en",
+    "path": "/properties/posting",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\posting.vue",
+    "chunkName": "pages/properties/posting",
+    "_name": "_851bbb60"
+  },
+  {
+    "name": "properties-thanks___en",
+    "path": "/properties/thanks",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\thanks.vue",
+    "chunkName": "pages/properties/thanks",
+    "_name": "_41bff0ab"
+  },
+  {
+    "name": "auth-reset-password___ar",
+    "path": "/ar/auth/reset-password",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\auth\\\\reset-password.vue",
+    "chunkName": "pages/auth/reset-password",
+    "_name": "_8e6d1b20"
+  },
+  {
+    "name": "properties-add___ar",
+    "path": "/ar/properties/add",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add.vue",
+    "chunkName": "pages/properties/add",
+    "children": [
+      {
+        "name": "properties-add-1___ar",
+        "path": "1",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\1.vue",
+        "chunkName": "pages/properties/add/1",
+        "_name": "_31736ad2"
+      },
+      {
+        "name": "properties-add-2___ar",
+        "path": "2",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\2.vue",
+        "chunkName": "pages/properties/add/2",
+        "_name": "_31818253"
+      },
+      {
+        "name": "properties-add-3___ar",
+        "path": "3",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\3.vue",
+        "chunkName": "pages/properties/add/3",
+        "_name": "_318f99d4"
+      },
+      {
+        "name": "properties-add-4___ar",
+        "path": "4",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\4.vue",
+        "chunkName": "pages/properties/add/4",
+        "_name": "_319db155"
+      },
+      {
+        "name": "properties-add-5___ar",
+        "path": "5",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\5.vue",
+        "chunkName": "pages/properties/add/5",
+        "_name": "_31abc8d6"
+      },
+      {
+        "name": "properties-add-6___ar",
+        "path": "6",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\6.vue",
+        "chunkName": "pages/properties/add/6",
+        "_name": "_31b9e057"
+      },
+      {
+        "name": "properties-add-7___ar",
+        "path": "7",
+        "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\add\\\\7.vue",
+        "chunkName": "pages/properties/add/7",
+        "_name": "_31c7f7d8"
+      }
+    ],
+    "_name": "_71fb79a2"
+  },
+  {
+    "name": "properties-posting___ar",
+    "path": "/ar/properties/posting",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\posting.vue",
+    "chunkName": "pages/properties/posting",
+    "_name": "_851bbb60"
+  },
+  {
+    "name": "properties-thanks___ar",
+    "path": "/ar/properties/thanks",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\thanks.vue",
+    "chunkName": "pages/properties/thanks",
+    "_name": "_41bff0ab"
+  },
+  {
+    "name": "requests-post-destination___en",
+    "path": "/requests/post/destination",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\destination.vue",
+    "chunkName": "pages/requests/post/destination",
+    "_name": "_7f51120b"
+  },
+  {
+    "name": "requests-post-preview___en",
+    "path": "/requests/post/preview",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\preview.vue",
+    "chunkName": "pages/requests/post/preview",
+    "_name": "_19943f45"
+  },
+  {
+    "name": "requests-post-property-category___en",
+    "path": "/requests/post/property-category",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\property-category.vue",
+    "chunkName": "pages/requests/post/property-category",
+    "_name": "_2b299c33"
+  },
+  {
+    "name": "requests-post-staying-details___en",
+    "path": "/requests/post/staying-details",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\staying-details.vue",
+    "chunkName": "pages/requests/post/staying-details",
+    "_name": "_29400edb"
+  },
+  {
+    "name": "requests-post-terms___en",
+    "path": "/requests/post/terms",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\terms.vue",
+    "chunkName": "pages/requests/post/terms",
+    "_name": "_1b62ba78"
+  },
+  {
+    "name": "requests-post-destination___ar",
+    "path": "/ar/requests/post/destination",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\destination.vue",
+    "chunkName": "pages/requests/post/destination",
+    "_name": "_7f51120b"
+  },
+  {
+    "name": "requests-post-preview___ar",
+    "path": "/ar/requests/post/preview",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\preview.vue",
+    "chunkName": "pages/requests/post/preview",
+    "_name": "_19943f45"
+  },
+  {
+    "name": "requests-post-property-category___ar",
+    "path": "/ar/requests/post/property-category",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\property-category.vue",
+    "chunkName": "pages/requests/post/property-category",
+    "_name": "_2b299c33"
+  },
+  {
+    "name": "requests-post-staying-details___ar",
+    "path": "/ar/requests/post/staying-details",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\staying-details.vue",
+    "chunkName": "pages/requests/post/staying-details",
+    "_name": "_29400edb"
+  },
+  {
+    "name": "requests-post-terms___ar",
+    "path": "/ar/requests/post/terms",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\requests\\\\post\\\\terms.vue",
+    "chunkName": "pages/requests/post/terms",
+    "_name": "_1b62ba78"
+  },
+  {
+    "name": "properties-parent-id___ar",
+    "path": "/ar/properties/parent/:id?",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\parent\\\\_id.vue",
+    "chunkName": "pages/properties/parent/_id",
+    "_name": "_16ff6644"
+  },
+  {
+    "name": "marketplace-id___ar",
+    "path": "/ar/marketplace/:id",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\marketplace\\\\_id.vue",
+    "chunkName": "pages/marketplace/_id",
+    "_name": "_dd884184"
+  },
+  {
+    "name": "properties-id___ar",
+    "path": "/ar/properties/:id",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\_id.vue",
+    "chunkName": "pages/properties/_id",
+    "_name": "_65be07c8"
+  },
+  {
+    "name": "rent-id___ar",
+    "path": "/ar/rent/:id?",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\rent\\\\_id.vue",
+    "chunkName": "pages/rent/_id",
+    "_name": "_8cf7297c"
+  },
+  {
+    "name": "properties-parent-id___en",
+    "path": "/properties/parent/:id?",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\parent\\\\_id.vue",
+    "chunkName": "pages/properties/parent/_id",
+    "_name": "_16ff6644"
+  },
+  {
+    "name": "marketplace-id___en",
+    "path": "/marketplace/:id",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\marketplace\\\\_id.vue",
+    "chunkName": "pages/marketplace/_id",
+    "_name": "_dd884184"
+  },
+  {
+    "name": "properties-id___en",
+    "path": "/properties/:id",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\properties\\\\_id.vue",
+    "chunkName": "pages/properties/_id",
+    "_name": "_65be07c8"
+  },
+  {
+    "name": "rent-id___en",
+    "path": "/rent/:id?",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\rent\\\\_id.vue",
+    "chunkName": "pages/rent/_id",
+    "_name": "_8cf7297c"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\front-end-nuxt2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_670a4973"
+  }
+]
